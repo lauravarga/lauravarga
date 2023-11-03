@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lauravarga
-- 👀 I’m interested in devops/SRE, mostly running high available and higly scalable systems in production
+- 👀 I’m interested in devops/SRE, mostly running highly available and higly scalable systems in production
 - 📫 You can reach me on Mastodon @lolovarga@hachyderm.io
